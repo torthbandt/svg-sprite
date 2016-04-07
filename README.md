@@ -1,6 +1,6 @@
 # SVG Sprite
 
-Simple Grunt setup for generating optimised SVG sprites.
+Simple Grunt setup for generating optimized SVG sprites.
 
 
 ## Usage
