@@ -1,7 +1,7 @@
 {
   "name": "svg-sprite",
   "version": "0.1.0",
-  "author": "Roland Warmerdam (https://rolandwarmerdam.co.nz)",
+  "author": "Thomas Orthbandt (http://twodesignz.com)",
   "license": "MIT",
   "engines": {
     "node": "~0.10.0"
