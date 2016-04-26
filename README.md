@@ -19,7 +19,7 @@ Reference an SVG using the following (where `name` is the filename of an individ
 ### Steps
 1. Go to SVG-Sprite folder /dev/svg-sprite
 2. Create a 'src' folder
-3. Run 'grunt' at /dev/svg-sprite to compile
+3. Run 'grunt' at /dev/svg-sprite to compile
 4. copy SVG images and paste to /svg-sprite/src
 5. In /svg-sprite there should be a new folder called /build
 6. In /build folder, copy the sprite.svg file to the new location where you need your svg sprite located
